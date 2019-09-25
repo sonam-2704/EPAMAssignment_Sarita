@@ -1,0 +1,20 @@
+# Created on 2018-10-19T13:22:23.577
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Log file : D:\Users\Sonam_Mittal\workspace\SeleniumProject-master\.\serenity\serenity.log'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command 'Log file : D:\Users\Sonam_Mittal\workspace\SeleniumProject-master\.\serenity\serenity.log'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:506)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:212)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:179)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2018-10-19T13:22:23.608
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Log4j stream : sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@6d06d69c'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command 'Log4j stream : sun.net.www.protocol.jar.JarURLConnection$JarURLInputStream@6d06d69c'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:506)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:212)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:179)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.lang.Thread.run(Thread.java:748)
+
+

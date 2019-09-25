@@ -1,0 +1,66 @@
+# Created on 2018-10-17T14:49:21.674
+Oct 17, 2018 2:49:21 PM com.ikokoon.serenity.Configuration addIncludedPackages
+
+# Created on 2018-10-17T14:49:21.675
+INFO: Added package to enhance : automation
+
+# Created on 2018-10-17T14:49:21.714
+Oct 17, 2018 2:49:21 PM com.ikokoon.serenity.Transformer premain
+
+# Created on 2018-10-17T14:49:21.717
+INFO: Starting Serenity : 
+
+# Created on 2018-10-17T14:49:21.725
+Oct 17, 2018 2:49:21 PM com.ikokoon.serenity.Transformer premain
+
+# Created on 2018-10-17T14:49:21.729
+INFO: Deleting database file : D:\Users\Sonam_Mittal\workspace\SeleniumProject-master\.\serenity\serenity.odb
+
+# Created on 2018-10-17T14:49:21.733
+Oct 17, 2018 2:49:21 PM com.ikokoon.toolkit.Toolkit deleteFile
+
+# Created on 2018-10-17T14:49:21.736
+INFO: File : .\serenity\serenity.odb
+
+# Created on 2018-10-17T14:49:21.745
+Oct 17, 2018 2:49:21 PM com.ikokoon.toolkit.Toolkit deleteFile
+
+# Created on 2018-10-17T14:49:21.747
+INFO: Deleted file : .\serenity\serenity.odb
+
+# Created on 2018-10-17T14:49:21.787
+Oct 17, 2018 2:49:21 PM com.ikokoon.serenity.persistence.DataBaseRam <init>
+
+# Created on 2018-10-17T14:49:21.788
+INFO: Opening RAM database with com.ikokoon.serenity.persistence.DataBaseOdb@ee7d9f1 underneath.
+
+# Created on 2018-10-17T14:49:21.909
+Oct 17, 2018 2:49:21 PM com.ikokoon.serenity.process.Listener execute
+
+# Created on 2018-10-17T14:49:21.910
+INFO: Starting socket listener on port : 50005
+
+# Created on 2018-10-17T14:49:21.913
+Oct 17, 2018 2:49:21 PM com.ikokoon.serenity.Transformer premain
+
+# Created on 2018-10-17T14:49:21.914
+INFO: Finished initializing Serenity : 
+
+# Created on 2018-10-17T14:49:22.916
+Oct 17, 2018 2:49:22 PM com.ikokoon.serenity.process.Listener$1 run
+
+# Created on 2018-10-17T14:49:22.918
+INFO: Running : com.ikokoon.serenity.process.Listener$1@b2a7223
+
+# Created on 2018-10-17T14:49:27.143
+Oct 17, 2018 2:49:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+
+# Created on 2018-10-17T14:49:27.144
+INFO: Detected dialect: OSS
+
+# Created on 2018-10-17T14:49:40.509
+Oct 17, 2018 2:49:40 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+
+# Created on 2018-10-17T14:49:40.510
+INFO: Detected dialect: OSS
+
